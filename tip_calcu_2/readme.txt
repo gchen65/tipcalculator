@@ -1,4 +1,5 @@
-# Pre-work - tip calico 2
+# tipcalculator
+# Pre-work - tip calcu 2
 
 tip calcu 2 is a tip calculator application for iOS.
 
@@ -26,13 +27,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+http://imgur.com/T1B0IQY
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-The ‘var billAmount’ line was a problem, but it was easily fixed when I read the instructions. 
+The ‘var billAmount’ line was a problem, but it was easily fixed when I read the instructions.
+I created new projects after the others ones failed, so that's why the name is tip calcu 2.
 
 ## License
 
